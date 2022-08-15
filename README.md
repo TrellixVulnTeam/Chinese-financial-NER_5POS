@@ -1,9 +1,10 @@
-# Chinese-financial-NER
+# Chinese-financial-NER（金融领域命名实体识别）
 
 
 
-# Project address:
+# Project address：（项目代码地址）
 
+由于预训练模型过大，我们将模型放在百度云盘里供用户下载
 Because the project file is too large, we put the project in Baidu cloud disk. Thank you for your understanding
 
 链接：https://pan.baidu.com/s/1lUn6EC-gD5-E6g8EkAklwQ 
@@ -16,7 +17,7 @@ Because the project file is too large, we put the project in Baidu cloud disk. T
 
 
 
-# How to run this project
+# How to run this project（如何运行我们的项目）
 
 run simple.sh
  
