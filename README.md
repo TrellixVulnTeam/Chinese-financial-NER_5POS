@@ -6,7 +6,8 @@
 
 由于预训练模型过大，我们将整个项目代码放在百度云盘里供用户下载
 
-Because the project file is too large, we put the project in Baidu cloud disk. Thank you for your understanding
+Because the project file is too large, we put all the codes of the whole project in Baidu cloud disk for users to download.
+Thank you for your understanding and support
 
 链接：https://pan.baidu.com/s/1lUn6EC-gD5-E6g8EkAklwQ 
 提取码：M978 
