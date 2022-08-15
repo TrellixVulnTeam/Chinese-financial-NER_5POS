@@ -1,0 +1,54 @@
+08/15/2022 11:10:28 - INFO - pytorch_pretrained.modeling -   Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex .
+08/15/2022 11:10:28 - INFO - pytorch_pretrained_zen.modeling -   Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex .
+08/15/2022 11:10:29 - INFO - __main__ -   {'do_train': True, 'do_test': False, 'do_predict': False, 'train_data_path': './sample_data/train.txt', 'dev_data_path': './sample_data/dev.txt', 'test_data_path': './sample_data/test.txt', 'input_file': None, 'output_file': None, 'use_bert': False, 'use_zen': True, 'bert_model': './ZEN_pretrain_base_v0.1.0', 'eval_model': None, 'cache_dir': '', 'max_seq_length': 300, 'max_ngram_size': 128, 'do_lower_case': False, 'train_batch_size': 16, 'eval_batch_size': 32, 'learning_rate': 1e-05, 'num_train_epochs': 10.0, 'warmup_proportion': 0.1, 'no_cuda': False, 'local_rank': -1, 'seed': 42, 'gradient_accumulation_steps': 1, 'fp16': False, 'loss_scale': 0, 'server_ip': '', 'server_port': '', 'patient': 100, 'ngram_threshold': 2, 'av_threshold': 5, 'model_name': 'models/test_zen', 'use_attention': True, 'ngram_type': 'pmi', 'cat_type': 'length', 'cat_num': 10, 'ngram_length': 10}
+08/15/2022 11:10:29 - INFO - __main__ -   device: cuda n_gpu: 1, distributed training: False, 16-bits training: False
+08/15/2022 11:10:29 - INFO - __main__ -   # of word in train: 534: 
+08/15/2022 11:10:32 - INFO - __main__ -   # of n-gram in attention: 6305
+08/15/2022 11:10:32 - INFO - pytorch_pretrained_zen.tokenization -   loading vocabulary file ./ERNIE_pretrain\vocab.txt
+08/15/2022 11:10:32 - INFO - pytorch_pretrained_zen.ngram_utils -   loading ngram frequency file ./ZEN_pretrain_base_v0.1.0\ngram.txt
+08/15/2022 11:10:33 - INFO - pytorch_pretrained_zen.modeling -   loading weights file ./ZEN_pretrain_base_v0.1.0\pytorch_model.bin
+08/15/2022 11:10:33 - INFO - pytorch_pretrained_zen.modeling -   loading configuration file ./ZEN_pretrain_base_v0.1.0\config.json
+08/15/2022 11:10:33 - INFO - pytorch_pretrained_zen.modeling -   Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "directionality": "bidi",
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "num_hidden_word_layers": 6,
+  "pooler_fc_size": 768,
+  "pooler_num_attention_heads": 12,
+  "pooler_num_fc_layers": 3,
+  "pooler_size_per_head": 128,
+  "pooler_type": "first_token_transform",
+  "type_vocab_size": 2,
+  "vocab_size": 21128,
+  "word_size": 104089
+}
+
+08/15/2022 11:10:35 - INFO - pytorch_pretrained.modeling -   loading archive file ./ERNIE_pretrain
+08/15/2022 11:10:35 - INFO - pytorch_pretrained.modeling -   Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "relu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-05,
+  "max_position_embeddings": 513,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 18000
+}
+
+08/15/2022 11:10:40 - INFO - __main__ -   # of trainable parameters: 329663019
+08/15/2022 11:10:40 - INFO - __main__ -   ***** Running training *****
+08/15/2022 11:10:40 - INFO - __main__ -     Num examples = 28004
+08/15/2022 11:10:40 - INFO - __main__ -     Batch size = 16
+08/15/2022 11:10:40 - INFO - __main__ -     Num steps = 17500

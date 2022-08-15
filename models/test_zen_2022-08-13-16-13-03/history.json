@@ -1,0 +1,1 @@
+{"epoch": [0, 0], "dev": {"word_p": [-100], "word_r": [-100], "word_f": [0], "word_oov": [-100], "pos_p": [-100], "pos_r": [-100], "pos_f": [-100.0], "pos_oov": [-100]}, "test": {"word_p": [-100], "word_r": [-100], "word_f": [0], "word_oov": [-100], "pos_p": [-100], "pos_r": [-100], "pos_f": [-100.0], "pos_oov": [-100]}}

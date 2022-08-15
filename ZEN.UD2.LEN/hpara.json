@@ -1,0 +1,1 @@
+{"max_seq_length": 300, "max_ngram_size": 128, "use_bert": false, "use_zen": true, "do_lower_case": false, "use_attention": true, "cat_type": "length", "cat_num": 10, "ngram_length": 10}

@@ -1,0 +1,9 @@
+tqdm
+nltk
+pandas
+boto3
+requests
+regex
+seqeval
+psutil
+pytorch>=1.9.1

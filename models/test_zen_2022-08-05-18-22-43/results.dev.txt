@@ -1,0 +1,661 @@
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.0000    0.0000    0.0000       295
+    LOCATION     0.0000    0.0000    0.0000       488
+    ORG_NAME     0.0000    0.0000    0.0000       265
+ PERSON_NAME     0.0000    0.0000    0.0000       573
+PRODUCT_NAME     0.0000    0.0000    0.0000       488
+        TIME     0.0000    0.0000    0.0000       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.0000    0.0000    0.0000      2473
+   macro avg     0.0000    0.0000    0.0000      2473
+weighted avg     0.0000    0.0000    0.0000      2473
+              precision    recall  f1-score   support
+
+        CLS]     0.0000    0.0000    0.0000         0
+COMPANY_NAME     0.0000    0.0000    0.0000       295
+    LOCATION     0.0000    0.0000    0.0000       488
+    ORG_NAME     0.0000    0.0000    0.0000       265
+ PERSON_NAME     0.0000    0.0000    0.0000       573
+PRODUCT_NAME     0.0000    0.0000    0.0000       488
+        SEP]     0.0000    0.0000    0.0000         0
+        TIME     0.2292    0.0304    0.0537       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.2200    0.0044    0.0087      2473
+   macro avg     0.0255    0.0034    0.0060      2473
+weighted avg     0.0335    0.0044    0.0079      2473
+              precision    recall  f1-score   support
+
+        CLS]     0.0000    0.0000    0.0000         0
+COMPANY_NAME     0.0000    0.0000    0.0000       295
+    LOCATION     0.0000    0.0000    0.0000       488
+    ORG_NAME     0.0000    0.0000    0.0000       265
+ PERSON_NAME     0.2511    0.0977    0.1407       573
+PRODUCT_NAME     0.0987    0.0307    0.0469       488
+        SEP]     0.0000    0.0000    0.0000         0
+        TIME     0.3436    0.1547    0.2133       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.2032    0.0514    0.0820      2473
+   macro avg     0.0770    0.0315    0.0445      2473
+weighted avg     0.1279    0.0514    0.0731      2473
+              precision    recall  f1-score   support
+
+        CLS]     0.0000    0.0000    0.0000         0
+COMPANY_NAME     0.0694    0.0169    0.0272       295
+    LOCATION     0.3566    0.3975    0.3760       488
+    ORG_NAME     0.0987    0.1396    0.1156       265
+ PERSON_NAME     0.7584    0.7836    0.7708       573
+PRODUCT_NAME     0.2596    0.4037    0.3160       488
+        SEP]     0.0000    0.0000    0.0000         0
+        TIME     0.4558    0.3564    0.4000       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.3809    0.4088    0.3944      2473
+   macro avg     0.2221    0.2331    0.2228      2473
+weighted avg     0.3829    0.4088    0.3893      2473
+              precision    recall  f1-score   support
+
+        CLS]     0.0000    0.0000    0.0000         0
+COMPANY_NAME     0.2222    0.0949    0.1330       295
+    LOCATION     0.4499    0.6721    0.5390       488
+    ORG_NAME     0.1538    0.1736    0.1631       265
+ PERSON_NAME     0.8429    0.9180    0.8789       573
+PRODUCT_NAME     0.3365    0.5102    0.4055       488
+        SEP]     0.0000    0.0000    0.0000         0
+        TIME     0.5629    0.4945    0.5265       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.4775    0.5483    0.5104      2473
+   macro avg     0.2854    0.3181    0.2940      2473
+weighted avg     0.4759    0.5483    0.5004      2473
+              precision    recall  f1-score   support
+
+        CLS]     0.0000    0.0000    0.0000         0
+COMPANY_NAME     0.3991    0.3153    0.3523       295
+    LOCATION     0.5381    0.7377    0.6223       488
+    ORG_NAME     0.3071    0.3094    0.3083       265
+ PERSON_NAME     0.8590    0.9145    0.8859       573
+PRODUCT_NAME     0.4130    0.6127    0.4934       488
+        TIME     0.6087    0.6575    0.6321       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.5511    0.6454    0.5945      2473
+   macro avg     0.3906    0.4434    0.4118      2473
+weighted avg     0.5563    0.6454    0.5930      2473
+              precision    recall  f1-score   support
+
+        CLS]     0.0000    0.0000    0.0000         0
+COMPANY_NAME     0.4519    0.3661    0.4045       295
+    LOCATION     0.5994    0.7725    0.6750       488
+    ORG_NAME     0.3930    0.4226    0.4073       265
+ PERSON_NAME     0.8760    0.9250    0.8998       573
+PRODUCT_NAME     0.4424    0.6926    0.5399       488
+        TIME     0.6468    0.6878    0.6667       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.5892    0.6931    0.6369      2473
+   macro avg     0.4262    0.4833    0.4492      2473
+weighted avg     0.5992    0.6931    0.6377      2473
+              precision    recall  f1-score   support
+
+        CLS]     0.0000    0.0000    0.0000         0
+COMPANY_NAME     0.5565    0.6339    0.5927       295
+    LOCATION     0.6713    0.7951    0.7280       488
+    ORG_NAME     0.5104    0.5547    0.5316       265
+ PERSON_NAME     0.8695    0.9302    0.8988       573
+PRODUCT_NAME     0.5167    0.6332    0.5691       488
+        TIME     0.6364    0.6961    0.6649       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.6463    0.7343    0.6875      2473
+   macro avg     0.4701    0.5304    0.4981      2473
+weighted avg     0.6501    0.7343    0.6892      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.6156    0.6407    0.6279       295
+    LOCATION     0.7221    0.7828    0.7512       488
+    ORG_NAME     0.5323    0.6528    0.5864       265
+ PERSON_NAME     0.8939    0.9407    0.9167       573
+PRODUCT_NAME     0.5527    0.6988    0.6172       488
+        TIME     0.6421    0.6989    0.6693       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.6764    0.7590    0.7153      2473
+   macro avg     0.5655    0.6307    0.5955      2473
+weighted avg     0.6831    0.7590    0.7181      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.6346    0.6712    0.6524       295
+    LOCATION     0.7339    0.7684    0.7508       488
+    ORG_NAME     0.5728    0.6981    0.6293       265
+ PERSON_NAME     0.8952    0.9389    0.9165       573
+PRODUCT_NAME     0.6038    0.7090    0.6522       488
+        TIME     0.6533    0.7182    0.6842       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.6998    0.7691    0.7328      2473
+   macro avg     0.5848    0.6434    0.6122      2473
+weighted avg     0.7041    0.7691    0.7346      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.6689    0.6780    0.6734       295
+    LOCATION     0.7375    0.7889    0.7624       488
+    ORG_NAME     0.5987    0.7094    0.6494       265
+ PERSON_NAME     0.8894    0.9407    0.9143       573
+PRODUCT_NAME     0.5970    0.7254    0.6549       488
+        TIME     0.6452    0.7182    0.6797       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7037    0.7788    0.7393      2473
+   macro avg     0.5910    0.6515    0.6192      2473
+weighted avg     0.7078    0.7788    0.7410      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.6875    0.6712    0.6792       295
+    LOCATION     0.7456    0.7869    0.7657       488
+    ORG_NAME     0.5862    0.7057    0.6404       265
+ PERSON_NAME     0.8913    0.9442    0.9169       573
+PRODUCT_NAME     0.6202    0.7295    0.6704       488
+        TIME     0.6684    0.7293    0.6975       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7153    0.7804    0.7465      2473
+   macro avg     0.5999    0.6524    0.6243      2473
+weighted avg     0.7187    0.7804    0.7476      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.6700    0.6814    0.6756       295
+    LOCATION     0.7561    0.8258    0.7894       488
+    ORG_NAME     0.6571    0.6943    0.6752       265
+ PERSON_NAME     0.8929    0.9459    0.9186       573
+PRODUCT_NAME     0.6170    0.7295    0.6685       488
+        TIME     0.6633    0.7238    0.6922       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7236    0.7877    0.7543      2473
+   macro avg     0.6081    0.6572    0.6314      2473
+weighted avg     0.7253    0.7877    0.7548      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.7208    0.6475    0.6821       295
+    LOCATION     0.7654    0.8156    0.7897       488
+    ORG_NAME     0.6046    0.6981    0.6480       265
+ PERSON_NAME     0.8974    0.9459    0.9210       573
+PRODUCT_NAME     0.6123    0.7541    0.6758       488
+        TIME     0.6592    0.7320    0.6937       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7224    0.7881    0.7538      2473
+   macro avg     0.6085    0.6562    0.6301      2473
+weighted avg     0.7270    0.7881    0.7549      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.6741    0.7220    0.6972       295
+    LOCATION     0.7623    0.8279    0.7937       488
+    ORG_NAME     0.6606    0.6906    0.6753       265
+ PERSON_NAME     0.9067    0.9494    0.9275       573
+PRODUCT_NAME     0.6076    0.7234    0.6604       488
+        TIME     0.7162    0.7459    0.7307       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7337    0.7954    0.7633      2473
+   macro avg     0.6182    0.6656    0.6407      2473
+weighted avg     0.7364    0.7954    0.7644      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.6543    0.7186    0.6850       295
+    LOCATION     0.7473    0.8484    0.7946       488
+    ORG_NAME     0.6506    0.6604    0.6554       265
+ PERSON_NAME     0.8979    0.9511    0.9237       573
+PRODUCT_NAME     0.6508    0.6988    0.6739       488
+        TIME     0.6709    0.7265    0.6976       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7303    0.7885    0.7583      2473
+   macro avg     0.6102    0.6577    0.6329      2473
+weighted avg     0.7299    0.7885    0.7579      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.7045    0.6949    0.6997       295
+    LOCATION     0.7802    0.8074    0.7936       488
+    ORG_NAME     0.6254    0.7057    0.6631       265
+ PERSON_NAME     0.8931    0.9476    0.9196       573
+PRODUCT_NAME     0.6340    0.7029    0.6667       488
+        TIME     0.7042    0.7431    0.7231       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7391    0.7849    0.7613      2473
+   macro avg     0.6202    0.6574    0.6380      2473
+weighted avg     0.7401    0.7849    0.7616      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.6678    0.6881    0.6778       295
+    LOCATION     0.7665    0.8340    0.7988       488
+    ORG_NAME     0.6187    0.6981    0.6560       265
+ PERSON_NAME     0.8916    0.9476    0.9188       573
+PRODUCT_NAME     0.6286    0.7111    0.6673       488
+        TIME     0.7051    0.7597    0.7314       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7300    0.7926    0.7600      2473
+   macro avg     0.6112    0.6627    0.6357      2473
+weighted avg     0.7311    0.7926    0.7604      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.7148    0.6712    0.6923       295
+    LOCATION     0.7704    0.8320    0.8000       488
+    ORG_NAME     0.6276    0.6868    0.6559       265
+ PERSON_NAME     0.8920    0.9511    0.9206       573
+PRODUCT_NAME     0.6194    0.7336    0.6717       488
+        TIME     0.7028    0.7514    0.7263       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7345    0.7930    0.7626      2473
+   macro avg     0.6181    0.6609    0.6381      2473
+weighted avg     0.7363    0.7930    0.7629      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.6923    0.7017    0.6970       295
+    LOCATION     0.7744    0.8443    0.8078       488
+    ORG_NAME     0.6233    0.6868    0.6535       265
+ PERSON_NAME     0.9007    0.9494    0.9244       573
+PRODUCT_NAME     0.6183    0.7336    0.6710       488
+        TIME     0.6823    0.7652    0.7214       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7301    0.8006    0.7637      2473
+   macro avg     0.6130    0.6687    0.6393      2473
+weighted avg     0.7328    0.8006    0.7648      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.6709    0.7119    0.6908       295
+    LOCATION     0.7821    0.8238    0.8024       488
+    ORG_NAME     0.6006    0.7321    0.6599       265
+ PERSON_NAME     0.8980    0.9529    0.9246       573
+PRODUCT_NAME     0.6341    0.7172    0.6731       488
+        TIME     0.7043    0.7762    0.7385       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7320    0.8019    0.7653      2473
+   macro avg     0.6129    0.6734    0.6413      2473
+weighted avg     0.7350    0.8019    0.7666      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.7003    0.7051    0.7027       295
+    LOCATION     0.7742    0.8361    0.8039       488
+    ORG_NAME     0.6285    0.6830    0.6546       265
+ PERSON_NAME     0.9025    0.9529    0.9270       573
+PRODUCT_NAME     0.6127    0.7295    0.6660       488
+        TIME     0.7143    0.7597    0.7363       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7357    0.7982    0.7657      2473
+   macro avg     0.6189    0.6666    0.6415      2473
+weighted avg     0.7382    0.7982    0.7666      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.7067    0.7186    0.7126       295
+    LOCATION     0.7905    0.8197    0.8048       488
+    ORG_NAME     0.6471    0.7057    0.6751       265
+ PERSON_NAME     0.8992    0.9494    0.9236       573
+PRODUCT_NAME     0.6404    0.7152    0.6757       488
+        TIME     0.7188    0.7624    0.7399       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7486    0.7958    0.7715      2473
+   macro avg     0.6289    0.6673    0.6474      2473
+weighted avg     0.7495    0.7958    0.7718      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.7075    0.7051    0.7063       295
+    LOCATION     0.7875    0.8279    0.8072       488
+    ORG_NAME     0.6367    0.6943    0.6643       265
+ PERSON_NAME     0.9040    0.9529    0.9278       573
+PRODUCT_NAME     0.6333    0.7254    0.6762       488
+        TIME     0.7202    0.7680    0.7433       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7463    0.7982    0.7714      2473
+   macro avg     0.6270    0.6676    0.6464      2473
+weighted avg     0.7479    0.7982    0.7719      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.7158    0.7085    0.7121       295
+    LOCATION     0.7771    0.8361    0.8055       488
+    ORG_NAME     0.6289    0.6906    0.6583       265
+ PERSON_NAME     0.8995    0.9529    0.9254       573
+PRODUCT_NAME     0.6362    0.7275    0.6788       488
+        TIME     0.7128    0.7680    0.7394       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7431    0.8002    0.7706      2473
+   macro avg     0.6243    0.6691    0.6456      2473
+weighted avg     0.7444    0.8002    0.7710      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.6974    0.7186    0.7078       295
+    LOCATION     0.7616    0.8381    0.7980       488
+    ORG_NAME     0.6194    0.6755    0.6462       265
+ PERSON_NAME     0.9038    0.9511    0.9269       573
+PRODUCT_NAME     0.6365    0.7357    0.6825       488
+        TIME     0.7294    0.7597    0.7442       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7401    0.8002    0.7690      2473
+   macro avg     0.6212    0.6684    0.6437      2473
+weighted avg     0.7417    0.8002    0.7695      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.6967    0.7085    0.7025       295
+    LOCATION     0.7757    0.8361    0.8047       488
+    ORG_NAME     0.6169    0.6868    0.6500       265
+ PERSON_NAME     0.9015    0.9581    0.9289       573
+PRODUCT_NAME     0.6243    0.7357    0.6754       488
+        TIME     0.6900    0.7624    0.7244       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7331    0.8019    0.7659      2473
+   macro avg     0.6150    0.6696    0.6409      2473
+weighted avg     0.7354    0.8019    0.7668      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.7251    0.7153    0.7201       295
+    LOCATION     0.7823    0.8320    0.8064       488
+    ORG_NAME     0.6259    0.6943    0.6583       265
+ PERSON_NAME     0.8982    0.9546    0.9255       573
+PRODUCT_NAME     0.6357    0.7295    0.6794       488
+        TIME     0.7128    0.7680    0.7394       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7443    0.8015    0.7718      2473
+   macro avg     0.6257    0.6705    0.6470      2473
+weighted avg     0.7458    0.8015    0.7723      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.7172    0.7051    0.7111       295
+    LOCATION     0.7911    0.8381    0.8139       488
+    ORG_NAME     0.6293    0.6981    0.6619       265
+ PERSON_NAME     0.9101    0.9546    0.9319       573
+PRODUCT_NAME     0.6414    0.7295    0.6826       488
+        TIME     0.7113    0.7624    0.7360       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7490    0.8011    0.7741      2473
+   macro avg     0.6286    0.6697    0.6482      2473
+weighted avg     0.7507    0.8011    0.7747      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.7222    0.7051    0.7136       295
+    LOCATION     0.7730    0.8443    0.8071       488
+    ORG_NAME     0.6360    0.6792    0.6569       265
+ PERSON_NAME     0.9000    0.9581    0.9281       573
+PRODUCT_NAME     0.6443    0.7275    0.6833       488
+        TIME     0.7124    0.7597    0.7353       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7465    0.8002    0.7724      2473
+   macro avg     0.6269    0.6677    0.6463      2473
+weighted avg     0.7468    0.8002    0.7723      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.6839    0.7186    0.7008       295
+    LOCATION     0.7900    0.8402    0.8143       488
+    ORG_NAME     0.6071    0.7057    0.6527       265
+ PERSON_NAME     0.9061    0.9599    0.9322       573
+PRODUCT_NAME     0.6354    0.7070    0.6693       488
+        TIME     0.7113    0.7624    0.7360       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7402    0.8006    0.7692      2473
+   macro avg     0.6191    0.6705    0.6436      2473
+weighted avg     0.7420    0.8006    0.7700      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.6921    0.7085    0.7002       295
+    LOCATION     0.7824    0.8402    0.8103       488
+    ORG_NAME     0.6159    0.7019    0.6561       265
+ PERSON_NAME     0.9002    0.9599    0.9291       573
+PRODUCT_NAME     0.6367    0.7111    0.6718       488
+        TIME     0.7084    0.7652    0.7357       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7398    0.8002    0.7688      2473
+   macro avg     0.6194    0.6695    0.6433      2473
+weighted avg     0.7409    0.8002    0.7693      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.7201    0.7153    0.7177       295
+    LOCATION     0.7984    0.8361    0.8168       488
+    ORG_NAME     0.6416    0.7094    0.6738       265
+ PERSON_NAME     0.9104    0.9581    0.9337       573
+PRODUCT_NAME     0.6459    0.7213    0.6815       488
+        TIME     0.7216    0.7735    0.7467       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7550    0.8039    0.7787      2473
+   macro avg     0.6340    0.6734    0.6529      2473
+weighted avg     0.7563    0.8039    0.7791      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.7133    0.7254    0.7193       295
+    LOCATION     0.7767    0.8484    0.8110       488
+    ORG_NAME     0.6431    0.6868    0.6642       265
+ PERSON_NAME     0.9044    0.9581    0.9305       573
+PRODUCT_NAME     0.6418    0.7234    0.6802       488
+        TIME     0.7117    0.7707    0.7401       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7471    0.8051    0.7750      2473
+   macro avg     0.6273    0.6733    0.6493      2473
+weighted avg     0.7477    0.8051    0.7752      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.7079    0.6983    0.7031       295
+    LOCATION     0.7859    0.8422    0.8131       488
+    ORG_NAME     0.6357    0.6981    0.6655       265
+ PERSON_NAME     0.9149    0.9564    0.9352       573
+PRODUCT_NAME     0.6297    0.7213    0.6724       488
+        TIME     0.7077    0.7624    0.7340       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7456    0.7998    0.7718      2473
+   macro avg     0.6260    0.6684    0.6462      2473
+weighted avg     0.7475    0.7998    0.7724      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.6936    0.6983    0.6959       295
+    LOCATION     0.7881    0.8381    0.8123       488
+    ORG_NAME     0.6221    0.7019    0.6596       265
+ PERSON_NAME     0.9044    0.9581    0.9305       573
+PRODUCT_NAME     0.6283    0.7275    0.6743       488
+        TIME     0.7103    0.7652    0.7367       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7404    0.8015    0.7697      2473
+   macro avg     0.6210    0.6699    0.6442      2473
+weighted avg     0.7424    0.8015    0.7705      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.7041    0.7017    0.7029       295
+    LOCATION     0.7869    0.8402    0.8127       488
+    ORG_NAME     0.6174    0.6943    0.6536       265
+ PERSON_NAME     0.9059    0.9581    0.9313       573
+PRODUCT_NAME     0.6319    0.7316    0.6781       488
+        TIME     0.7041    0.7624    0.7321       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7410    0.8019    0.7702      2473
+   macro avg     0.6215    0.6698    0.6444      2473
+weighted avg     0.7431    0.8019    0.7710      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.7007    0.6983    0.6995       295
+    LOCATION     0.7889    0.8422    0.8147       488
+    ORG_NAME     0.6237    0.6943    0.6571       265
+ PERSON_NAME     0.8997    0.9546    0.9263       573
+PRODUCT_NAME     0.6299    0.7254    0.6743       488
+        TIME     0.7041    0.7624    0.7321       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7403    0.7998    0.7689      2473
+   macro avg     0.6210    0.6682    0.6434      2473
+weighted avg     0.7419    0.7998    0.7695      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.7075    0.7051    0.7063       295
+    LOCATION     0.7834    0.8525    0.8165       488
+    ORG_NAME     0.6500    0.6868    0.6679       265
+ PERSON_NAME     0.9149    0.9564    0.9352       573
+PRODUCT_NAME     0.6283    0.7275    0.6743       488
+        TIME     0.7117    0.7569    0.7336       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7472    0.8019    0.7736      2473
+   macro avg     0.6280    0.6693    0.6477      2473
+weighted avg     0.7488    0.8019    0.7741      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.6903    0.7254    0.7074       295
+    LOCATION     0.7826    0.8484    0.8142       488
+    ORG_NAME     0.6120    0.6906    0.6489       265
+ PERSON_NAME     0.9000    0.9581    0.9281       573
+PRODUCT_NAME     0.6291    0.7090    0.6667       488
+        TIME     0.6957    0.7514    0.7224       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7356    0.7998    0.7664      2473
+   macro avg     0.6157    0.6690    0.6411      2473
+weighted avg     0.7369    0.7998    0.7669      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.6817    0.7186    0.6997       295
+    LOCATION     0.7747    0.8525    0.8117       488
+    ORG_NAME     0.6360    0.6792    0.6569       265
+ PERSON_NAME     0.9015    0.9581    0.9289       573
+PRODUCT_NAME     0.6252    0.7111    0.6654       488
+        TIME     0.7036    0.7541    0.7280       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7369    0.7994    0.7669      2473
+   macro avg     0.6175    0.6677    0.6415      2473
+weighted avg     0.7376    0.7994    0.7671      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.6837    0.7254    0.7039       295
+    LOCATION     0.7814    0.8422    0.8107       488
+    ORG_NAME     0.6120    0.6906    0.6489       265
+ PERSON_NAME     0.8985    0.9581    0.9274       573
+PRODUCT_NAME     0.6266    0.7049    0.6635       488
+        TIME     0.6964    0.7541    0.7241       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7338    0.7982    0.7647      2473
+   macro avg     0.6141    0.6679    0.6398      2473
+weighted avg     0.7351    0.7982    0.7653      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.6921    0.7085    0.7002       295
+    LOCATION     0.7893    0.8443    0.8158       488
+    ORG_NAME     0.6458    0.7019    0.6727       265
+ PERSON_NAME     0.9043    0.9564    0.9296       573
+PRODUCT_NAME     0.6369    0.7152    0.6737       488
+        TIME     0.7106    0.7597    0.7343       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7459    0.8002    0.7721      2473
+   macro avg     0.6256    0.6694    0.6466      2473
+weighted avg     0.7467    0.8002    0.7724      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.6708    0.7322    0.7002       295
+    LOCATION     0.7844    0.8422    0.8123       488
+    ORG_NAME     0.6357    0.6981    0.6655       265
+ PERSON_NAME     0.9120    0.9581    0.9345       573
+PRODUCT_NAME     0.6343    0.6967    0.6641       488
+        TIME     0.7059    0.7624    0.7331       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7416    0.7994    0.7694      2473
+   macro avg     0.6204    0.6700    0.6442      2473
+weighted avg     0.7427    0.7994    0.7700      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.7023    0.7119    0.7071       295
+    LOCATION     0.7860    0.8504    0.8169       488
+    ORG_NAME     0.6526    0.7019    0.6764       265
+ PERSON_NAME     0.9135    0.9581    0.9353       573
+PRODUCT_NAME     0.6350    0.7131    0.6718       488
+        TIME     0.7080    0.7569    0.7316       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7485    0.8015    0.7741      2473
+   macro avg     0.6282    0.6703    0.6484      2473
+weighted avg     0.7494    0.8015    0.7744      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.6875    0.7085    0.6978       295
+    LOCATION     0.7897    0.8463    0.8170       488
+    ORG_NAME     0.6348    0.7019    0.6667       265
+ PERSON_NAME     0.9181    0.9581    0.9377       573
+PRODUCT_NAME     0.6352    0.7172    0.6737       488
+        TIME     0.7088    0.7597    0.7333       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7460    0.8015    0.7727      2473
+   macro avg     0.6249    0.6702    0.6466      2473
+weighted avg     0.7477    0.8015    0.7735      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.6875    0.7085    0.6978       295
+    LOCATION     0.7826    0.8484    0.8142       488
+    ORG_NAME     0.6446    0.6981    0.6703       265
+ PERSON_NAME     0.9181    0.9581    0.9377       573
+PRODUCT_NAME     0.6325    0.7090    0.6686       488
+        TIME     0.7106    0.7597    0.7343       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7459    0.7998    0.7719      2473
+   macro avg     0.6251    0.6688    0.6461      2473
+weighted avg     0.7471    0.7998    0.7724      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.6898    0.7085    0.6990       295
+    LOCATION     0.7810    0.8402    0.8095       488
+    ORG_NAME     0.6434    0.6943    0.6679       265
+ PERSON_NAME     0.9181    0.9581    0.9377       573
+PRODUCT_NAME     0.6332    0.7111    0.6699       488
+        TIME     0.7143    0.7597    0.7363       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7463    0.7982    0.7714      2473
+   macro avg     0.6257    0.6674    0.6457      2473
+weighted avg     0.7476    0.7982    0.7719      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.6921    0.7085    0.7002       295
+    LOCATION     0.7833    0.8443    0.8126       488
+    ORG_NAME     0.6446    0.6981    0.6703       265
+ PERSON_NAME     0.9196    0.9581    0.9385       573
+PRODUCT_NAME     0.6364    0.7172    0.6744       488
+        TIME     0.7095    0.7624    0.7350       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7473    0.8011    0.7732      2473
+   macro avg     0.6265    0.6698    0.6473      2473
+weighted avg     0.7487    0.8011    0.7738      2473
+              precision    recall  f1-score   support
+
+COMPANY_NAME     0.6830    0.7085    0.6955       295
+    LOCATION     0.7833    0.8443    0.8126       488
+    ORG_NAME     0.6446    0.6981    0.6703       265
+ PERSON_NAME     0.9196    0.9581    0.9385       573
+PRODUCT_NAME     0.6314    0.7090    0.6680       488
+        TIME     0.7095    0.7624    0.7350       362
+        UNK>     0.0000    0.0000    0.0000         2
+
+   micro avg     0.7452    0.7994    0.7714      2473
+   macro avg     0.6245    0.6686    0.6457      2473
+weighted avg     0.7466    0.7994    0.7720      2473
