@@ -4,7 +4,7 @@
 
 # Project address：（项目代码地址）
 
-由于预训练模型过大，我们将模型放在百度云盘里供用户下载
+由于预训练模型过大，我们将整个项目代码放在百度云盘里供用户下载
 
 Because the project file is too large, we put the project in Baidu cloud disk. Thank you for your understanding
 
